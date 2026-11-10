@@ -27,7 +27,7 @@ The pipeline follows the **Medallion Architecture**:
 
 ## 🎥 Video Demo
 
-Watch the YouTube video:
+Watch the YouTube video: https://youtu.be/rHFb0gQiyow
 
 **Databricks Lakeflow Declarative Pipelines – Retail Data Pipeline**
 
